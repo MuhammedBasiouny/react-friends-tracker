@@ -6,8 +6,10 @@ function App() {
    return (
       <div>
          <h1>Friend Tracker</h1>
-         <WelcomeMessage />
-         <ProfileInfo />
+         <div className="content-container">
+            <WelcomeMessage />
+            <ProfileInfo />
+         </div>
       </div>
    );
 }

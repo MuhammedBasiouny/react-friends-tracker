@@ -1,5 +1,5 @@
 export const myProfileData = {
-   name: "Muhammed Basiouny",
+   name: "Muhammed",
    profilePicUrl: `${process.env.PUBLIC_URL}/my-profile-pic.png`,
    age: 100,
    bio: "I like to program, I also like food",
